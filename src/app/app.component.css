@@ -1,0 +1,22 @@
+#app-login{
+  padding: 10px;
+  position:fixed;
+  top: 60%;
+  left: 50%;
+  width:25em;
+  height: auto;
+  margin-top: -20em; /*set to a negative number 1/2 of your height*/
+  margin-left: -15em; /*set to a negative number 1/2 of your width*/
+  border: 1px solid #ccc;
+  background-color: #fdfdfd;
+}
+
+#app-footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
